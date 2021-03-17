@@ -1,0 +1,22 @@
+{
+  "homepage": "Anasayfa",
+  "login": "Oturum Aç",
+  "login-text": "Oturumunuzu açacağız veya henüz bir hesabınız yoksa bir hesap oluşturacağız",
+  "logout": "Çıkış Yap",
+  "register": "Kaydol",
+  "lang": "Dil",
+  "turkish": "Türkçe",
+  "english": "English",
+  "name": "İsim",
+  "name-error": "Tüm karakterler bir dizge olmalıdır",
+  "email-address": "E-posta Adresi",
+  "email-address-error": "Lütfen geçerli bir e-posta adresi giriniz",
+  "password": "Şifre",
+  "password-hint": "Şifreniz minimum 6 karakter uzunluğunda olmalıdır.",
+  "phone-number": "Telefon Numarası",
+  "phone-number-error": "Lütfen geçerli bir telefon numarası giriniz",
+  "phone-number-min-error": "Telefon numaranız minimum 11 karakter içermelidir",
+  "phone-number-max-error": "Telefon numaranız maksimum 17 karakter içermelidir",
+  "send": "Gönder",
+  "welcome": "Hoşgeldin {{ name }}"
+}

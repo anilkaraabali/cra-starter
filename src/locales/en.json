@@ -1,0 +1,22 @@
+{
+  "homepage": "Homepage",
+  "login": "Log in",
+  "login-text": "We'll sign you in or create an account if you don't have one yet.",
+  "logout": "Sign out",
+  "register": "Sign up",
+  "lang": "Language",
+  "turkish": "Türkçe",
+  "english": "English",
+  "name": "Name",
+  "name-error": "All characters must be a string",
+  "email-address": "Email Address",
+  "email-address-error": "Please enter a valid email address",
+  "password": "Password",
+  "password-hint": "The length of your password must be at least 6 characters",
+  "phone-number": "Phone",
+  "phone-number-error": "Please enter a valid phone",
+  "phone-number-min-error": "The length of the cell phone must be included at least 11 characters",
+  "phone-number-max-error": "The max length of the cell phone must be included 17 characters",
+  "send": "Send",
+  "welcome": "Welcome {{ name }}"
+}
